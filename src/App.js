@@ -20,7 +20,7 @@ class App extends Component {
     this.state = {
       // on peut mettre notre sampleEmployee par défaut
       // afin d'avoir toujours un employé d'affiché
-    perso: samplePerso
+    perso: samplePerso[0]
 
     };
   }  
